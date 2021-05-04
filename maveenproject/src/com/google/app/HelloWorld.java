@@ -1,4 +1,4 @@
-package maveenproject;
+package com.google.app;
 
 public class HelloWorld {
 
